@@ -5,4 +5,6 @@ header:
   image: /assets/images/mortgage-loan-agreement.png
   teaser: /assets/images/mortgage-loan-agreement.png
 ---
-Content about the project goes here.
+**Project title goes here**
+
+Project description goes here.
