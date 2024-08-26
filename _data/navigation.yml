@@ -1,12 +1,14 @@
 main:
   # - title: "Projects"
   #   url: /posts/
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
   # - title: "Categories"
   #   url: /categories/
   # - title: "Tags"
   #   url: /tags/
+  - title: "Skills"
+    url: /skills/
   - title: "About"
-    url: /about/
+    url: /
   
