@@ -126,6 +126,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      toc: true
 
 
 category_archive:
