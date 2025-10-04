@@ -42,7 +42,7 @@ As data repositories and accessibility requirements grew at work, I started expl
 **SQL**
 
 ![image-left-sql](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg){: .align-left width="200"}
-I've used SQL nearly throughout my entire work carreer, starting with PL/SQL and later on T-SQL for querying, developing data warehouses, stored procedures and troubleshooting data and database issues. 
+I've used SQL nearly throughout my entire work carreer, starting with PL/SQL and later on T-SQL for querying, developing data warehouses, stored procedures and troubleshooting data and database issues. <br><br>
 {: style="text-align: justify;"}
 
 ---

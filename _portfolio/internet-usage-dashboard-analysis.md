@@ -15,7 +15,7 @@ Readers may find it helpful to keep the interactive dashboard open in a separate
 {: .notice--primary}
 {:#Notice1}
 **Notice 2:** 
-The source data, step-by-step data preparation and analysis can be found in the Jupiter Notebook inside [this github repo](https://github.com/juchnowicz/internet-usage-dashboard-analysis.git){:target="_blank"}.
+The source data, step-by-step data preparation and analysis in Python can be found in the Jupiter Notebook inside [this github repo](https://github.com/juchnowicz/internet-usage-dashboard-analysis.git){:target="_blank"}.
 {: style="text-align: justify;"}
 {: .notice--primary}
 {:#Notice2}
